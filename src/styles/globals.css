@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+*::selection {
+  color: transparent;
+}
+
 .container {
   padding: 0px 100px;
 }
