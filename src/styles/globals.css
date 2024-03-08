@@ -52,12 +52,11 @@ ul, li, .Link {
 .header ul {
   display: flex;
   gap: 30px;
-  color: red;
 }
 
 .Link {
   color: black;
-  color: red;
+
 }
 
 
