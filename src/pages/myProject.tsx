@@ -6,7 +6,7 @@ const myProject = () => {
       <ul>
         <li>My projects</li>
         <li>Online Market : <a href="https://paragraf.vercel.app/">Paragraf</a></li>
-        <li>online Book Market : <a href="https://kitob-ol.vercel.app/">Kitob_oL</a> now</li>
+        <li>online Book Market : <a href="https://kitob-ol-q2bq.vercel.app/">Kitob_oL</a> now</li>
       </ul>
     </div>
   )
